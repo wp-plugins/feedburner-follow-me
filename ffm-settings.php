@@ -240,7 +240,7 @@
 			<!-- WP-Banner Ends Here -->
 		</div>
 
-		<div id="poststuff" class="ffm-meta-box" style="width:60.1%;">
+		<div id="poststuff" class="ffm-meta-box" style="width:703px;">
 		<div class="postbox" id="post_settings_box">
 		<div class="handlediv" title="Click to toggle"><br/></div>
 			<h3 class="hndle"><span><?php _e('Feedburner Follow Me Settings', 'ffollowme'); ?></span></h3>
@@ -296,5 +296,5 @@
 		</div>
 	</div><!-- #poststuff -->
 	
-	<iframe class="ffm_iframe" src="http://www.sketchthemes.com/sketch-updates/plugin-updates/ffm-lite/ffm-lite.php" width="694px" height="220px" scrolling="no" ></iframe> 
+	<iframe class="ffm_iframe" src="http://www.sketchthemes.com/sketch-updates/plugin-updates/ffm-lite/ffm-lite.php" width="690px" height="250px" scrolling="no" ></iframe> 
 </div>

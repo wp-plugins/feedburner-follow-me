@@ -52,6 +52,7 @@ class FFMWidget extends WP_Widget {
 						</div>
 						
 						<input type="hidden" value="<?php echo $ffm_feed_url; ?>" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="<?php echo $button_text; ?>" onclick="return ffmWidgetValid();" />
+						<a href="http://www.wpfruits.com" title="wpfruits" style=" margin-top:10px;background: none repeat scroll 0 0 #FFFFFF;border: 1px solid #CCCCCC; color: #777777; display: block !important; font-family: arial; font-size: 11px; font-weight: bold; line-height: 15px; margin-top: px; padding: 1px; position: relative !important; text-align: center; text-decoration: none; text-indent: 0 !important; visibility: visible !important; width: 30px;outline:none;margin-left:1px;" target="_blank"><?php _e('WPF','ffollowme') ?></a> 	
 						</form>
                       </div>
              <?php echo $after_widget; ?>
