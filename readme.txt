@@ -21,7 +21,7 @@ Feedburner Follow Me is a simple plugin that allows you to show Google Feedburne
 * Join millions of other followers.
 
 == Installation ==
-1. Upload `like-dislike-counter-for-posts-pages-and-comments` to the `/wp-content/plugins/` directory.
+1. Upload `feedburner-follow-me` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Activate the plugin via the 'Plugins' menu in WordPress, you'll automatically redirected to plugin admin panel.
 4. Plugin settings are located in 'FFM Settings'.
