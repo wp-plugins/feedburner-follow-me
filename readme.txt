@@ -11,10 +11,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Feedburner Follow Me plugin allows you to show Google Feedburner subscription form either as a floating button or in sidebar of your website.
 
 == Description ==
+
 Feedburner Follow Me is a simple plugin that allows you to show Google Feedburner subscription form either as a floating button or in sidebar(widgetized areas of your site). This plugin is very helpful for your visitors to subscribe to your feed and receive every new update into their inbox right away. Even you don't have to worry about managing subscription and email content, it will be automatically managed by Feedburner. This plugin is quite easy to use and customize, just put your Feedburner user name via admin panel and you are ready to rock!
 
 
-= Features  =
+= Features =
+
 * There are two ways to use of plugin via Footer sticky widget (always displayed) and sidebar widget.
 * Very easy to setup, just need to put Feedburner user name via admin panel.
 * Widget options.
