@@ -2,7 +2,7 @@
 Contributors: tikendramaitry, rahulbrilliant2004, Nishant Jain
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=wpfruits@gmail.com&item_name=Feedburner-Follow%20Me%20Popup%20And%20Widget&item_number=WordPress.org%20Donation&currency_code=USD&lc=US
 Tags: Feed, Feedburner, Form, rss, Subscribers, Subscription, Follow me, Customizable, Customize, Simple, Social, Email, Mailer, Newsletter, Widget
-Requires at least: 2.8
+Requires at least: 3.0.1
 Tested up to: 3.6
 Stable tag: 1.0.0
 License: GPLv2 or later
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Feedburner Follow Me plugin allows you to show Google Feedburner subscription form either as a floating button or in sidebar of your website.
 
 == Description ==
-Feedburner Follow Me is a simple plugin that allows you to show Google Feedburner subscription form either as a floating button or in sidebar(widgetized areas of your site). This plugin is very helpful for your visitors to subscribe to your feed and receive every new upadte into their inbox right away. Even you don't have to worry about managing subscription and email content, it will be automatically managed by Feedburner. This plugin is quite easy to use and customize, just put your Feedburner user name via admin panel and you are ready to rock!
+Feedburner Follow Me is a simple plugin that allows you to show Google Feedburner subscription form either as a floating button or in sidebar(widgetized areas of your site). This plugin is very helpful for your visitors to subscribe to your feed and receive every new update into their inbox right away. Even you don't have to worry about managing subscription and email content, it will be automatically managed by Feedburner. This plugin is quite easy to use and customize, just put your Feedburner user name via admin panel and you are ready to rock!
 
 
 = Features  =
