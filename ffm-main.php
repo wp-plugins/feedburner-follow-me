@@ -4,7 +4,7 @@ Plugin Name: Feedburner Follow Me
 Author URI: http://www.wpfruits.com/
 Description: Adds a floating follow button to FeedBurner using WordPRess sites. The same follow button which appears on WP.COM blogs. Use Follow Plugin if your don't use FeedBurner
 Version: 1.0.0
-Author: tikendramaitry, rahulbrilliant2004, Nishant Jain 
+Author: tikendramaitry, rahulbrilliant2004, Nishant Jain
 Author URI: http://www.wpfruits.com/
 Licence: GNU GPL Version 3
 */
