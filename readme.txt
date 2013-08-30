@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=wpfru
 Tags: Feed, Feedburner, Form, rss, Subscribers, Subscription, Follow me, Customizable, Customize, Simple, Social, Email, Mailer, Newsletter, Widget
 Requires at least: 3.0.1
 Tested up to: 3.6
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +41,11 @@ For any more questions you can <a href="http://www.sketchthemes.com/helpdesk/ind
 
 
 == Changelog ==
+
+= 1.0.1 =
+Fixed default content issue.
+
+
 = 1.0.0 =
 * 1.0.0 Initial Release.
 

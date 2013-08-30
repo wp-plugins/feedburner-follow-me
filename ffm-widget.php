@@ -36,8 +36,6 @@ class FFMWidget extends WP_Widget {
 						<div class="ffm-widget-content">
 						<?php if(!empty($pre_content)): echo $pre_content;?>
 						<?php else: ?>
-						<p><?php _e('YGet every new post delivered to your Inbox.', 'ffollowme'); ?></p> 
-						<p><?php _e('Join other followers.', 'ffollowme'); ?></p>
 						<?php endif; ?>
 						</div>
 						
@@ -47,7 +45,6 @@ class FFMWidget extends WP_Widget {
 						<div class="ffm-widget-content">
 						<?php if(!empty($post_content)): echo $post_content;?>
 						<?php else: ?>
-						<p><?php _e('Keep yourself updated!!!', 'ffollowme'); ?></p>
 						<?php endif; ?>
 						</div>
 						
