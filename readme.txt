@@ -1,5 +1,5 @@
 === Feedburner Follow Me ===
-Contributors: tikendramaitry, rahulbrilliant2004, Nishant Jain
+Contributors: tikendramaitry, rahulbrilliant2004
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=wpfruits@gmail.com&item_name=Feedburner-Follow%20Me%20Popup%20And%20Widget&item_number=WordPress.org%20Donation&currency_code=USD&lc=US
 Tags: Feed, Feedburner, Form, rss, Subscribers, Subscription, Follow me, Customizable, Customize, Simple, Social, Email, Mailer, Newsletter, Widget
 Requires at least: 3.0.1
